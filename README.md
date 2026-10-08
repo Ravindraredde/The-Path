@@ -52,28 +52,7 @@ The-Path/
 - **CSS3** for responsive styling  
 - **Vanilla JavaScript** for basic interactivity  
 
-## 🧑‍💻 Getting Started
 
-To view the project locally:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MARISA-SRINIVAS/the-path.git
-   cd the-path
-Open HTML/landing.html or any other HTML file in your browser.
-
-Alternatively, you can drag and drop the .html files into a browser to explore the content.
-
-🚀 Deploy on GitHub Pages
-To publish your project online:
-
-Push the code to your GitHub repository.
-
-Go to Settings > Pages.
-
-Select the root or main branch and save.
-
-Visit the provided link to view your site.
 
 📄 License
 This project is open-source and available under the MIT License.
